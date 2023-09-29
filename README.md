@@ -2,7 +2,7 @@
 
 I am a full stack software engineer with web and mobile experience.
 
-- 👩‍💻 I'm currently working for [Skyward App Company](https://skywardapps.com) on React Native, React, and Node.js applications in TypeScript
+- 👩‍💻 I've worked on React Native, React, and Node.js applications in TypeScript for 4.5 at [Skyward App Company](https://skywardapps.com)
 - 🗺️ Ask me about mapping and geometry libraries, especially Mapbox, Leaflet, and Turf.js
 - 🌱 I'm always looking for ways that I can have a positive impact on my projects and the world at large
 
