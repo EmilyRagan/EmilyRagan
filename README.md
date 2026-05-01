@@ -5,7 +5,7 @@ I am a full stack software engineer with web and mobile experience.
 - 💼 I am currently working on [COSMOS](https://github.com/OpenC3/cosmos) command & control software in Vue, Ruby, and Python at 🪐[OpenC3](https://github.com/OpenC3)
 - 👩‍💻 I worked on ArcGIS Monitor in Vue and Node.js with TypeScript and PostgreSQL for 2 years at 🌎[Esri](https://github.com/Esri)
 - 👩‍💻 I worked on React Native, React, and Node.js applications in TypeScript and C# with MSSQL for 4.5 years at [Skyward App Company](https://github.com/SkywardApps)
-- 👩‍💻 I worked on Angular with TypeScript, Python, and Java applications for 2 years at 🚀[NASA](https://github.com/nasa) Goddard Space Flight Center
+- 👩‍💻 I worked on [SCaN Now](https://scan-now.gsfc.nasa.gov) in Angular with TypeScript, Python, and Java applications for 2 years at 🚀[NASA](https://github.com/nasa) Goddard Space Flight Center
 - 🗺️ Ask me about mapping and geometry libraries, especially Mapbox, Leaflet, and Turf.js
 - 🌱 I'm always looking for ways that I can have a positive impact on my projects and the world at large
 
